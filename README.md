@@ -75,10 +75,9 @@ The DMP ensures that customer data is handled responsibly, reducing the risk of 
 
 ## Repository Contents  
 
-- `docs/` → Business Report and Data Management Plan documentation  
+- `data management plan/` → Data Management Plan documentation  
 - `dashboards/` → Power BI files (Sales, Inventory, Shipment dashboards)  
-- `assets/` → Dashboard screenshots for quick reference  
-- `CASE_STUDY.md` (optional) → Extended version of the case study for detailed context  
+- `data_files/` → data files    
 
 ---
 
