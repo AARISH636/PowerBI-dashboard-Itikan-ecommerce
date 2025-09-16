@@ -41,7 +41,7 @@ A set of **Power BI dashboards** was designed and implemented, following the **B
 ![Inventory Dashboard](dashboards/Inventorymanagement.png)  
 
 #### Shipment Management Dashboard  
-![Shipment Dashboard](dashboards/shipment_management.png)  
+![Shipment Dashboard](dashboards/shipment_analysis.png)  
 
 ### Outcome  
 The dashboards provided Jonathon with a **single source of truth** for decision-making, enabling him to quickly assess performance and identify areas requiring action.  
