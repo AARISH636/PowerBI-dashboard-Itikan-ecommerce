@@ -35,18 +35,17 @@ A set of **Power BI dashboards** was designed and implemented, following the **B
 ### Dashboard Screenshots  
 
 #### Sales Management Dashboard  
-![Sales Dashboard](assets/sales_dashboard.png)  
+![Sales Dashboard](dashboards/sales_management.png)  
 
 #### Inventory Management Dashboard  
-![Inventory Dashboard](assets/inventory_dashboard.png)  
+![Inventory Dashboard](dashboards/Inventorymanagement.png)  
 
 #### Shipment Management Dashboard  
-![Shipment Dashboard](assets/shipment_dashboard.png)  
+![Shipment Dashboard](dashboards/shipment_management.png)  
 
 ### Outcome  
 The dashboards provided Jonathon with a **single source of truth** for decision-making, enabling him to quickly assess performance and identify areas requiring action.  
-
-For the full case study and business report, see [Business Report](docs/Business_Report.pdf).  
+ 
 
 ---
 
@@ -90,7 +89,3 @@ This repository showcases both the **practical BI solution** (Power BI dashboard
 - Manage sensitive data responsibly for sustainable growth  
 
 ---
-
-## Acknowledgement  
-
-This project acknowledges the use of **ChatGPT** for guidance on visualization selection and report formatting.  
